@@ -1,0 +1,28 @@
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\richard voragen\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Saves.resources
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Funct.resources
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Quadratic.resources
+D:\Coding Examples\Visual Basic\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Coding Examples\Visual Basic\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Coding Examples\Visual Basic\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Coding Examples\Visual Basic\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.vbprojResolveAssemblyReference.cache
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Funct.resources
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Quadratic.resources
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Saves.resources
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Coding Examples\Visual Basic\Calculator\Calculator\obj\Debug\Calculator.pdb
